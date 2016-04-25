@@ -26,10 +26,8 @@ public class driver {
 	 */
 	private static Scanner scan;
 	public static void main(String[] args) throws IOException {
-		
-		System.out.println("test!");
 	
-	
+
 		String[] lines;
 		
 		polynomial new_poly = new polynomial();
